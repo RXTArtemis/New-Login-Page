@@ -1,0 +1,13 @@
+/* for nav bar */
+
+#navbar-spacing{
+    width: 100%;
+    position:absolute;
+    top: 0px;
+
+}
+
+.container-fluid{
+   display: flex;
+}
+

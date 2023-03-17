@@ -5,9 +5,10 @@ import StarwarsBtn from './components/starwars-btn';
 import NewNavbar from './components/newNavbar';
 import NewLoginForm from './components/newLoginForm';
 
+
 function App() {
   return (
-    <div className="App" id="background">
+    <div className="App">
      <NewNavbar />
      <br/>
      <NewLoginForm />

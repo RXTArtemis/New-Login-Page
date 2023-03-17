@@ -1,0 +1,16 @@
+/* for login form */
+
+div{
+    justify-content: center;
+}
+
+#color{
+    background-color:rgb(229, 230, 231);
+}
+
+#footer-color{
+    background-color: black;
+}
+h3, h4{
+   color:rgb(235, 244, 142);
+}
